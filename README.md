@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**ACaliz1/ACaliz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Albert Caliz**, a 27-year-old from Barcelona with a passion for technology, padel, and video games. 
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 Currently studying **Development of Web Applications (DAW)**.
+- 💼 Working as an intern at **NTT DATA**.
+- 🎮 Enjoy playing video games in my free time.
+- 🏓 A big fan of **padel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Learning
+- 🌱 Continuously improving my skills in web development and software engineering through my studies and hands-on experience.
+
+### How to Reach Me
+- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/albert-cáliz-824a99300/)) or [email](albertcalizescolanuria@gmail.com).
+
+### Fun Facts
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love balancing my life between code, the padel court, and virtual worlds!
+
