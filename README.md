@@ -12,7 +12,7 @@ I'm **Albert Caliz**, a 27-year-old from Barcelona with a passion for technology
 - 🌱 Continuously improving my skills in web development and software engineering through my studies and hands-on experience.
 
 ### How to Reach Me
-- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/albert-cáliz-824a99300/)) or [email](albertcalizescolanuria@gmail.com).
+- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/albert-cáliz-824a99300/) or [email](albertcalizescolanuria@gmail.com).
 
 ### Fun Facts
 - 😄 Pronouns: He/Him
