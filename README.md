@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Albert Caliz**, a 27-year-old from Barcelona with a passion for technology, padel, and video games.
+I'm **Albert Caliz**, a 28-year-old from Barcelona with a passion for technology, padel, and video games.
 
 ### About Me
 - 🎓 Currently studying **Development of Web Applications (DAW)**.
