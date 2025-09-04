@@ -4,7 +4,7 @@ I'm **Albert Caliz**, a 28-year-old from Barcelona with a passion for technology
 
 ### About Me
 - 🎓 Currently studying **Development of Web Applications (DAW)**.
-- 💼 Working as an intern at **NTT DATA**.
+- 💼 Working at **NTT DATA**.
 - 🎮 Enjoy playing video games in my free time.
 - 🏓 A big fan of **padel**.
 - 🚀 I love practicing and learning new technologies with **Midudev**, a streamer who inspires me to keep growing.
