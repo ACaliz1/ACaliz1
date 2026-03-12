@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Albert Caliz**, a 28-year-old from Barcelona with a passion for technology, padel, and video games.
+I'm **Albert Caliz**, a 29-year-old from Barcelona with a passion for technology, padel, and video games.
 
 ### About Me
 - 💼 Junior Engineer working at **NTT DATA**.
@@ -12,8 +12,4 @@ I'm **Albert Caliz**, a 28-year-old from Barcelona with a passion for technology
 - 🌱 Continuously improving my skills in web development and software engineering through my studies, hands-on experience, and the knowledge shared by the tech community.
 
 ### How to Reach Me
-- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/albert-cáliz-824a99300/) or [email](albertcalizescolanuria@gmail.com).
-
-### Fun Facts
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love balancing my life between code, the padel court, and virtual worlds!
+- 📫 You can reach out to me via [LinkedIn](https://www.linkedin.com/in/albert-cáliz-824a99300/) or [email](albertcaliz@gmail.com).
